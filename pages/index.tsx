@@ -144,8 +144,8 @@ export default function Home() {
           ans: "사과",
         },
         {
-          ans: "orange",
           prob: "오렌지",
+          ans: "orange",
         },
       ],
       null,
